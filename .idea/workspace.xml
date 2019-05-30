@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c469dc-f9d7-4b11-9bac-93c2acd9ccd6" name="Default Changelist" comment="" />
+    <list default="true" id="68c469dc-f9d7-4b11-9bac-93c2acd9ccd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +98,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -205,15 +207,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559196510983</updated>
-      <workItem from="1559196515641" duration="1426000" />
+      <workItem from="1559196515641" duration="1824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1426000" />
+    <option name="totallyTimeSpent" value="1824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
