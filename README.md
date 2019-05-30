@@ -38,11 +38,11 @@ git clone https://github.com/cfr321/ssm-project.git
 
 页面展示
 
-![页面展示](readme_Images\\QQ截图20190530141903.png)
+![页面展示](readme_Images/QQ截图20190530141903.png)
 
 新增修改
 
-![新增修改](readme_Images\\QQ截图20190530141927.png)
+![新增修改](readme_Images/QQ截图20190530141927.png)
 
 
 
